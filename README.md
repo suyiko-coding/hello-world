@@ -1,2 +1,2 @@
 # hello-world
-see you again
+next life
